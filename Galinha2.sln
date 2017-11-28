@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Galinha2", "Galinha2.vcxproj", "{7EF99DBE-97F1-45E5-9D3D-349DE36C1A4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EF99DBE-97F1-45E5-9D3D-349DE36C1A4A}.Debug|x86.ActiveCfg = Debug|Win32
+		{7EF99DBE-97F1-45E5-9D3D-349DE36C1A4A}.Debug|x86.Build.0 = Debug|Win32
+		{7EF99DBE-97F1-45E5-9D3D-349DE36C1A4A}.Release|x86.ActiveCfg = Release|Win32
+		{7EF99DBE-97F1-45E5-9D3D-349DE36C1A4A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {797C0CFB-D94A-403F-93A5-4568E4E6F7FE}
+	EndGlobalSection
+EndGlobal
